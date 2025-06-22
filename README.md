@@ -59,7 +59,7 @@ The app uses a Vite proxy to handle CORS issues during development:
 
 ## Usage
 
-1. **Get API Credentials:** Create an application in the [Brale Dashboard](https://dashboard.brale.xyz) to obtain your `client_id` and `client_secret`
+1. **Get API Credentials:** Create an application in the [Brale Dashboard](https://app.brale.xyz) to obtain your `client_id` and `client_secret`
 
 2. **Enter Credentials:** Input your client ID and secret in the form fields
 
