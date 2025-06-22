@@ -1,16 +1,16 @@
 # Brale API Authentication Demo v1.0
 
-A minimal React application built with Vite that demonstrates OAuth2 client credentials authentication with the Brale API.
+A minimal React application built with Vite that demonstrates OAuth2 client credentials authentication with the Brale API. Uses the API documented at https://docs.brale.xyz
 
 ## Features
 
-✅ **OAuth2 Client Credentials Flow** - Implements the official Brale authentication method  
-✅ **Bearer Token Generation** - Generates and displays API access tokens  
-✅ **Token Persistence** - Saves tokens to localStorage for session persistence  
-✅ **Copy to Clipboard** - Easy token copying for use in other applications  
-✅ **CORS Proxy** - Built-in proxy to handle cross-origin requests  
-✅ **Error Handling** - Clear error messages for authentication failures  
-✅ **Clean UI** - Professional, developer-focused interface  
+ **OAuth2 Client Credentials Flow** - Implements the official Brale authentication method  
+ **Bearer Token Generation** - Generates and displays API access tokens  
+ **Token Persistence** - Saves tokens to localStorage for session persistence  
+ **Copy to Clipboard** - Easy token copying for use in other applications  
+ **CORS Proxy** - Built-in proxy to handle cross-origin requests  
+ **Error Handling** - Clear error messages for authentication failures  
+ **Clean UI** - Professional, developer-focused interface  
 
 ## Quick Start
 
@@ -93,12 +93,8 @@ This project is for demonstration purposes. Refer to Brale's terms of service fo
 ## Version History
 
 ### v1.0.0 (2024)
-- ✅ Complete OAuth2 client credentials implementation
-- ✅ Working CORS proxy configuration
-- ✅ Token persistence and clipboard functionality
-- ✅ Professional UI with error handling
-- ✅ Full compatibility with Brale API documentation
-
----
-
-**Ready for production use as a Brale API token generation utility!** 🚀
+-  Complete OAuth2 client credentials implementation
+-  Working CORS proxy configuration
+-  Token persistence and clipboard functionality
+-  Professional UI with error handling
+-  Full compatibility with Brale API documentation
